@@ -1,0 +1,2 @@
+archivo dos.txt
+l¡nea 2 de dos.txt
