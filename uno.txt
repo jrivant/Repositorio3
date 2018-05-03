@@ -1,0 +1,3 @@
+uno.txt
+línea 2 de uno.txt
+línea 3 de uno.txt
